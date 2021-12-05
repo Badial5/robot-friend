@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Badial5/robot-friend.git/static/css/main.5481b758.chunk.css",
+    "main.js": "/Badial5/robot-friend.git/static/js/main.9473b9fa.chunk.js",
+    "main.js.map": "/Badial5/robot-friend.git/static/js/main.9473b9fa.chunk.js.map",
+    "runtime-main.js": "/Badial5/robot-friend.git/static/js/runtime-main.452baeae.js",
+    "runtime-main.js.map": "/Badial5/robot-friend.git/static/js/runtime-main.452baeae.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Badial5/robot-friend.git/static/css/2.31461e4f.chunk.css",
+    "static/js/2.cdbe7ad9.chunk.js": "/Badial5/robot-friend.git/static/js/2.cdbe7ad9.chunk.js",
+    "static/js/2.cdbe7ad9.chunk.js.map": "/Badial5/robot-friend.git/static/js/2.cdbe7ad9.chunk.js.map",
+    "static/js/3.91abd947.chunk.js": "/Badial5/robot-friend.git/static/js/3.91abd947.chunk.js",
+    "static/js/3.91abd947.chunk.js.map": "/Badial5/robot-friend.git/static/js/3.91abd947.chunk.js.map",
+    "index.html": "/Badial5/robot-friend.git/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Badial5/robot-friend.git/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.5481b758.chunk.css.map": "/Badial5/robot-friend.git/static/css/main.5481b758.chunk.css.map",
+    "static/js/2.cdbe7ad9.chunk.js.LICENSE.txt": "/Badial5/robot-friend.git/static/js/2.cdbe7ad9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.452baeae.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.cdbe7ad9.chunk.js",
+    "static/css/main.5481b758.chunk.css",
+    "static/js/main.9473b9fa.chunk.js"
+  ]
+}
